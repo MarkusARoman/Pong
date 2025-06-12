@@ -1,6 +1,8 @@
 # Pong
 A simple yet fully functional Pong game made in Java Lurch v.0.1 (My game engine).
 
+![image](https://github.com/user-attachments/assets/70258776-7cae-4274-b995-434def64b2d0)
+
 ## Featureing
 - OpenGL rendering
 - AABB collision detection
@@ -25,5 +27,3 @@ Space	 ->    Start Game
 Java 8+
 LWJGL 3.x (OpenGL, GLFW, JOML)
 IDE (e.g., IntelliJ IDEA or Eclipse)
-
-![image](https://github.com/user-attachments/assets/70258776-7cae-4274-b995-434def64b2d0)
