@@ -12,13 +12,18 @@ A simple yet fully functional Pong game made in Java Lurch v.0.1 (My game engine
 ## KeyAction
 
 W	     ->    Left Paddle Up
-<br>
+<br><br>
 S      ->    Left Paddle Down
-<br>
-<br>
+<br><br>
 UP     ->    Right Paddle Up
-<br>
+<br><br>
 DOWN   ->    Right Paddle Down
-<br>
-<br>
+<br><br>
 Space	 ->    Start Game
+
+## Requirements
+Java 8+
+LWJGL 3.x (OpenGL, GLFW, JOML)
+IDE (e.g., IntelliJ IDEA or Eclipse)
+
+![image](https://github.com/user-attachments/assets/70258776-7cae-4274-b995-434def64b2d0)
