@@ -24,6 +24,6 @@ DOWN   ->    Right Paddle Down
 Space	 ->    Start Game
 
 ## Requirements
-Java 8+
-LWJGL 3.x (OpenGL, GLFW, JOML)
-IDE (e.g., IntelliJ IDEA or Eclipse)
+- Java 8+
+- LWJGL 3.x (OpenGL, GLFW, JOML)
+- IDE (e.g., IntelliJ IDEA or Eclipse)
