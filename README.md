@@ -12,13 +12,13 @@ A simple yet fully functional Pong game made in Java Lurch v.0.1 (My game engine
 ## KeyAction
 
 W	     ->    Left Paddle Up
-
+<br>
 S      ->    Left Paddle Down
-
-
+<br>
+<br>
 UP     ->    Right Paddle Up
-
+<br>
 DOWN   ->    Right Paddle Down
-
-
+<br>
+<br>
 Space	 ->    Start Game
