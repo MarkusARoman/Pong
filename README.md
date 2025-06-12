@@ -1,5 +1,5 @@
 # Pong
-A simple yet fully functional Pong game made in Java Lurch v.0.1 (My game engine).
+A simple yet fully functional Pong game made in Java Lurch v.0.1 (My new Java game engine).
 
 ![image](https://github.com/user-attachments/assets/70258776-7cae-4274-b995-434def64b2d0)
 
